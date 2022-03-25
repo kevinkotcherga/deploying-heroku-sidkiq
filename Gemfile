@@ -43,7 +43,7 @@ gem 'rubocop-rails', '~> 2.8', :group => :development
 
 gem 'letter_opener', '~> 1.7', :group => :development
 
-gem 'letter_opener_web', '~> 1.4', :group => :development
+gem 'letter_opener_web', '~> 2.0', :group => :development
 
 gem 'lograge', '~> 0.11.2'
 
