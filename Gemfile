@@ -29,7 +29,7 @@ end
 
 gem 'tzinfo-data', platforms: %i[mingw mswin x64_mingw jruby]
 
-gem 'rspec-rails', '~> 4.0', :groups => %i[development test]
+gem 'rspec-rails', '~> 5.1', :groups => %i[development test]
 
 gem 'redis', '~> 4.2'
 
