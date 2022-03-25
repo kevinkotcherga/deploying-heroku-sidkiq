@@ -22,3 +22,4 @@ Then navigate your browser to https://127.0.0.1:3000/ to see your site.
 * [Ruby on Rails API Documentation](https://api.rubyonrails.org/)
 * [Heroku](https://www.heroku.com/)
 * [Docker-Rails-Generator](https://github.com/Ruby-Starter-Kits/Docker-Rails-Generator)
+# deploying-heroku-sidkiq
